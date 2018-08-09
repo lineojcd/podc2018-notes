@@ -1,5 +1,5 @@
 # Maximal Independent Set \dotfill 1
-![](images/algos/05-mis_definition.png){ width=75% }
+![](images/algos/05-mis_definition.png){ width=100% }
 
 ### Luby's Algorithm \dotfill 1
 Computes MIS in $O(\log n)$ rounds, with high probability
