@@ -21,6 +21,8 @@ Time Complexity: $O(n)$ for $\Delta+1$ colours.
 ### Reduce \dotfill 7
 ![](images/algos/01-09_reduce.png){ width=75% }
 
+Message Complexity: $2n(n-1)$ for a clique (worst case). In general 4 messages over each edge.
+
 Time Complexity: $O(n)$ for $\Delta+1$ colours.
 
 ## Coloring Trees \dotfill 8
