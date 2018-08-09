@@ -26,7 +26,7 @@ Message \& Time Complexity (find-op): $D$ messages ($D$ is diameter of spanning 
 Message Complexity (find-op by $S$ nodes): $O(\log(\left|S\right|) m^*)$ where $m^*$ message complexity of optimal (with global knowledge) algorithm on the tree.
 
 ## Ivy \& Friends \dotfill 29
-Note: These algorithms work on any graph $G$.
+Note: These algorithms work on any complete graph $G$ (aka clique).
 
 ### Pointer Forwarding \dotfill 29
 ![](images/algos/03-09_pointer-forwarding.png){ width=75% }
